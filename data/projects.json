@@ -1123,6 +1123,12 @@
     "description": "Pythonic framework for building MCP servers and clients."
   },
   {
+    "name": "Firecrawl MCP Server",
+    "repo": "firecrawl/firecrawl-mcp-server",
+    "category": "MCP Servers and Gateways",
+    "description": "Official MCP server for Firecrawl search, scrape, crawl and extraction, with Docker and self-hosted support."
+  },
+  {
     "name": "fxhoudinimcp",
     "repo": "healkeiser/fxhoudinimcp",
     "category": "MCP Servers and Gateways",
@@ -1937,6 +1943,12 @@
     "repo": "5dive-ai/5dive",
     "category": "Agents and Automation",
     "description": "Runs AI agents like Claude Code and Codex as Linux services on your server, sharing tasks and reviewing each other.",
+  },
+  {
+    "name": "Phosphene",
+    "repo": "mrbizarro/Phosphene",
+    "category": "Image and Video Generation",
+    "description": "AI video, image and music studio that runs locally on Apple Silicon Macs.",
     "rising": true
   }
 ]
